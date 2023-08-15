@@ -142,12 +142,20 @@ delete from cursos
 where idcurso = '8';
 
 delete from cursos
-where ano = '2050'
-limit 2;
+where ano = '2018'
+limit 3;
 
 truncate cursos;
 
 select * from cursos;
+select * from gafanhotos;
+desc gafanhotos;
+desc cursos;
+
+use exemplo;
+select * from amigos;
+
+
 
 
 
