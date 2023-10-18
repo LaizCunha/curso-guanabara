@@ -1,0 +1,56 @@
+body {
+    background: rgb(105, 105, 206);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+    
+}
+
+#dados {
+    padding: 20px;
+    text-align: center;
+    }
+
+#dados input {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btn-contar {
+    text-align: center;
+}
+
+#contar {
+    background-color: rgb(155, 52, 224);
+    border: 2px solid ;
+    border-radius: 10%;
+    text-align: center;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+}
+
+#resposta {
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
