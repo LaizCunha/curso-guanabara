@@ -22,7 +22,7 @@ btn_contar.onclick = function contar() {
 
         } else {
 
-            resposta.innerHTML = "Contando:"
+            resposta.innerHTML = "Contando: <br>"
 
             inicio = Number(inicio.value);
             fim = Number(fim.value);
